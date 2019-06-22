@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => (
-  <footer>
+  <footer className="pb-4">
     <p>Footer..</p>
     <ul className="d-flex flex-row justify-content-around">
       <li>Instagram</li>

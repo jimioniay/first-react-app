@@ -1,7 +1,7 @@
 import React from 'react';
 
 const NavBar = () => (
-  <nav className="mt-4">
+  <nav className="m-4">
     <ul className="list-group d-flex flex-row justify-content-around">
       <li className="list-group-item active">About</li>
       <li className="list-group-item">Home</li>
